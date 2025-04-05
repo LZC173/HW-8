@@ -37,3 +37,4 @@ rm -rf ~/.jenkins/plugins
 
 cd ~/.jenkins
 
+http://gitlab.example.com/LZC173/test.git
