@@ -38,3 +38,4 @@ rm -rf ~/.jenkins/plugins
 cd ~/.jenkins
 
 http://gitlab.example.com/LZC173/test.git
+http://10.0.0.40/LZC173/test
