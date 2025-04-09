@@ -40,3 +40,4 @@ cd ~/.jenkins
 http://gitlab.example.com/LZC173/test.git
 http://10.0.0.40/LZC173/test
 303a2ca35dbcb8d3e7e49cf6a5bfaf2c
+java -jar game_engine.jar museum.json -text
